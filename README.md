@@ -1,11 +1,1 @@
-<html>
-  <head>
-    <title>메인페이지</title>
-
-    
-  </head>
-  <body>
-    <h2>메인페이지입니다...</h2>
-
-  </body>
-</html>
+# AITest
